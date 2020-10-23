@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome_title">Meet Loula 🐶</string>
+    <string name="welcome_subtitle">Favorite things include naps, treats and camping trips</string>
+
+    <!-- Content Description -->
+    <string name="image_dog">Dog image</string>
+</resources>

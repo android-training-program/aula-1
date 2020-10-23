@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome_title">Digam olá à Loula 🐶</string>
+    <string name="welcome_subtitle">Os seus passatempos favoritos incluem sestas, passeios e acampamentos. Ocasionalmente gosta de devorar uma boa sapatilha.</string>
+
+    <!-- Content Description -->
+    <string name="image_dog">Imagem de um cão</string>
+</resources>
