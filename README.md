@@ -18,12 +18,12 @@ Qualquer questão que tenhas, podes sempre falar connosco a partir do [discord](
 ### Exercício 1
 
 <h3 align="center">
-  <img src="imagens/ex1.png" alt="Image da aplicação do exercício 1" />
+  <img src="imagens/ex1.png" alt="Imagem da aplicação do exercício 1" />
 </h3>
 
 
 ### Exercício 2
 
 <h3 align="center">
-  <img src="imagens/ex2.png" alt="Image da aplicação do exercício 2" />
+  <img src="imagens/ex2.png" alt="Imagem da aplicação do exercício 2" />
 </h3>
